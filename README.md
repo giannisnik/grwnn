@@ -30,6 +30,7 @@ Please cite our paper if you use this code:
   title={Geometric Random Walk Graph Neural Networks via Implicit Layers},
   author={Nikolentzos, Giannis and Vazirgiannis, Michalis},
   booktitle={Proceedings of the 26th International Conference on Artificial Intelligence and Statistics},
+  pages={2035--2053},
   year={2023}
 }
 ```
