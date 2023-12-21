@@ -1,6 +1,6 @@
 # Geometric Random Walk Graph Neural Networks via Implicit Layers
 
-This repository is the official implementation of Geometric Random Walk Graph Neural Networks via Implicit Layers.
+This repository is the official implementation of [Geometric Random Walk Graph Neural Networks via Implicit Layers](https://proceedings.mlr.press/v206/nikolentzos23c/nikolentzos23c.pdf).
 
 ## Requirements
 
