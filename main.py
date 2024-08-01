@@ -94,7 +94,7 @@ for i in range(10):
     val_index = splits[i]['model_selection'][0]['validation']
     test_index = splits[i]['test']
 
-    test_dataset = dataset[val_index]
+    test_dataset = dataset[test_index]
     val_dataset = dataset[val_index]
     train_dataset = dataset[train_index]
 
